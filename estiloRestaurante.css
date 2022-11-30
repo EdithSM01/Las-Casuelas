@@ -1,0 +1,90 @@
+body {
+	font-family: "Lucida Bright", "Times New Roman", sans-serif;
+	font-size: 20px;
+	margin: 10px;
+	color: #FFFFFF;
+	background-image: url('https://img.freepik.com/foto-gratis/textura-fondo-beige-liso_53876-98275.jpg?w=2000');
+}
+
+nav {
+	display: flex;
+	background-color: #D3307F;
+	opacity: 0.6;
+	padding: 35px;
+	justify-content: space-around;
+}
+
+.navegacion{
+	font-size: 30px;
+	font-family: "Lucida Bright", "Times New Roman", sans-serif;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.subtitulos { 
+	font-size: 45px;
+	margin: 5px;
+	font-family: "Lucida Bright", "Times New Roman", sans-serif;
+}
+
+.cazuelas img{
+	width: 50%;
+}
+
+.titulo{
+	background-image: url('https://www.unileverfoodsolutions.com.mx/tendencias/de-mexico-para-el-mundo/platillos-mexicanos/top10-platillos/jcr:content/parsys/content-aside-footer/columncontrol_copy/columnctrl_parsys_1/textimage_copy/image.transform/jpeg-optimized/image.1592429867593.jpg');
+	padding: 100px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.datos { 
+	padding: 90px;
+	background-color: #76812b;
+	font-family: "Courier New", sans-serif;
+}
+
+.galeria{
+	padding: 80px;
+	background-image: url('https://img.freepik.com/fotos-premium/viejo-fondo-textura-madera-vintage_55716-1138.jpg?w=2000');
+}
+
+.galeria img{
+	width: 80%;
+}
+
+.contacto{
+	padding: 30px;
+	color: #FFFFFF;
+	font-family: "Courier New", sans-serif;
+	font-size: 15px;
+	background-color: #5A3818;
+}
+h1{
+	text-align: center;
+}
+.descripcion {
+	text-align: center;
+	color: #5A3818;
+	font-size: 20px;
+	font-family: "Courier New", sans-serif;
+}
+
+
+.platillo{
+	text-align: center;
+	font-family: "Lucida Bright", "Times New Roman", sans-serif;
+	font-size: 30px;
+	color: #5A3818;
+}
+
+table{
+	width: 100%;
+}
+
+.condiciones {
+	text-align: right;
+	color: #5A3818;
+	font-size: 10px;
+	font-family: bold Arial , sans-serif;
+}
